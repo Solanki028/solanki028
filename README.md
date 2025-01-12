@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Solanki</h1>
 <h3 align="center">Turning ideas into stunning web and mobile experiences</h3>
-
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solanki028&label=Profile%20views&color=0e75b6&style=flat" alt="solanki028" /> </p>
 
 - 🔭 I’m currently working on **updating my skills in Web and App development**
@@ -14,6 +12,8 @@
 - 💬 Ask me about **MERN Stack Development**
 
 - 📫 How to reach me **Priyanshusolankii@outlook.com**
+
+- ⚡ Fun fact **Your code works perfectly—until someone else runs it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
