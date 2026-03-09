@@ -3,15 +3,13 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solanki028&label=Profile%20views&color=0e75b6&style=flat" alt="solanki028" /> </p>
 
-- 🔭 I’m currently working on **updating my skills in Web and App development**
-
-- 🌱 I’m currently learning **BE from Chandigarh University.**
+- 🔭 I’m currently working as a **Full Stack web developer**
 
 - 🤝 I’m looking for **Opportunities**
 
 - 💬 Ask me about **MERN Stack Development**
 
-- 📫 How to reach me **Priyanshusolankii@outlook.com**
+- 📫 How to reach me **Priyanshu.solankii@outlook.com**
 
 - ⚡ Fun fact **Your code works perfectly—until someone else runs it**
 
