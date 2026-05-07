@@ -100,8 +100,6 @@
 </p>
 
 ---
----
-
 ## 🧩 Current Focus
 
 ```yaml
