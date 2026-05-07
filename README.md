@@ -188,3 +188,37 @@ Learning:
   - System Design
   - AI Product Engineering
   - Scalable Cloud Concepts
+
+
+
+---
+
+# 📊 GitHub Analytics  
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=solanki028&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="solanki028" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=solanki028&theme=tokyonight" alt="solanki028" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=solanki028&show_icons=true&theme=tokyonight" alt="solanki028" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=solanki028&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+# 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://github.com/solanki028/solanki028/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
